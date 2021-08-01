@@ -1,7 +1,7 @@
 ## django-react-todo
 A Todo management web application built with Django and React. It allows users to create, update and delete todos. 
 
-# How to run the application
+## How to run the application
 The backend project is in the backend directory while the frontend project is in the frontend directory. 
 
 Follow these steps to run the application on your local machine:
